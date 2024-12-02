@@ -1,0 +1,6 @@
+setup.py
+brute_force_tool.egg-info/PKG-INFO
+brute_force_tool.egg-info/SOURCES.txt
+brute_force_tool.egg-info/dependency_links.txt
+brute_force_tool.egg-info/entry_points.txt
+brute_force_tool.egg-info/top_level.txt
